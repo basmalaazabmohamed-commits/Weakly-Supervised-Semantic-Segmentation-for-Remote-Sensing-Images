@@ -1,0 +1,20 @@
+# dataset
+LandCoverAI/
+report/
+*.pth
+*.pt
+*.h5
+
+# python
+__pycache__/
+*.pyc
+
+# notebooks cache
+.ipynb_checkpoints/
+
+# environment
+myenv/
+venv/
+
+model.pth
+*.pth
